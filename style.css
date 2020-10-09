@@ -1,0 +1,19 @@
+*{margin: 0;padding: 0}
+body{font-family: cursive}
+.main {width: 700px;margin: 0 auto}
+.header {}
+.header img {width: 700px;height:  auto}
+.mainmenu {background: red;overflow: hidden; margin-bottom: 20px}
+.mainmenu ul {list-style: none}
+.mainmenu ul li{float: left}
+.mainmenu ul li a {color: #fff;padding: 10px;display: block;text-decoration: none}
+.mainmenu ul li a:hover{background: #000}
+.maincontent {overflow: hidden}
+.maincontent h1 {margin-bottom: 20px}
+.maincontent p{margin-bottom: 20px}
+.content {width: 430px;float: left}
+.sidebar ul {list-style: none}
+.sidebar ul li {margin-bottom: 10px;border-bottom: 1px dashed black }
+.sidebar ul li a{color: #666;text-decoration: none}
+.sidebar {float: right;width: 250px;margin-left: 20px;}
+.fotter {background: red;color: #fff;padding: 10px;text-align: center}
